@@ -29,7 +29,7 @@ DesignFlowCSS IntelliSense Extension isn’t just another tool; it’s your part
 
 ## Contribution:
 
-We welcome your feedback and ideas! Visit our [GitHub repository](#) to report issues, request features, or contribute to the codebase.
+We welcome your feedback and ideas! Visit our [GitHub repository](https://github.com/Footprintarts/DesignFlowCSS-IntelliSense-Extension.git) to report issues, request features, or contribute to the codebase.
 
 ## Continuous Improvement:
 
@@ -37,7 +37,7 @@ We're committed to making DesignFlowCSS the ultimate IntelliSense solution for C
 
 ## Support & Community:
 
-Need help or have questions? We're here for you. Open an issue on our [GitHub repository](#), and join our growing community of developers who are pushing the boundaries of what's possible with CSS.
+Need help or have questions? We're here for you. Open an issue on our [GitHub repository](https://github.com/Footprintarts/DesignFlowCSS-IntelliSense-Extension.git), and join our growing community of developers who are pushing the boundaries of what's possible with CSS.
 
 ## Author:
 

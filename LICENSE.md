@@ -26,8 +26,9 @@ For any questions or further information, please contact the author:
 
 **Charles Mallya**  
 Creator of DesignFlowCSS  
-[Contact Information]  
-[Repository URL]
+[LinkednIn](linkedin.com/in/charles-mallya-a26530280)
+
+[[Repository URL](https://github.com/Footprintarts/DesignFlowCSS-IntelliSense-Extension.git)]
 
 ---
 

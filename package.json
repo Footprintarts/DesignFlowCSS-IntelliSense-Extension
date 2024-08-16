@@ -4,6 +4,7 @@
   "description": "Empower your CSS design with intelligent autocomplete and instant insights.",
   "version": "0.0.1",
   "publisher": "Charles Mallya",
+  "repository": "https://github.com/Footprintarts/DesignFlowCSS-IntelliSense-Extension.git",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.91.0"
