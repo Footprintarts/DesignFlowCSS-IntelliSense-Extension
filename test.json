@@ -1,0 +1,194 @@
+{
+  "flex": {
+    "description": "Applies `display: flex` to an element, making it a flex container. Useful for aligning child elements in a row or column."
+  },
+  "flex-1": {
+    "description": "Sets `flex: 1`, allowing the element to grow and shrink as needed, taking up the available space within a flex container."
+  },
+  "flexw": {
+    "description": "Applies `flex-wrap: wrap`, allowing flex items to wrap onto multiple lines if necessary. Customize with different wrap values."
+  },
+  "flex-col": {
+    "description": "Sets `flex-direction: column`, arranging child elements in a vertical stack within a flex container."
+  },
+  "items-center": {
+    "description": "Aligns flex items along the cross axis (vertically in a row layout) at the center using `align-items: center`."
+  },
+  "justify-between": {
+    "description": "Justifies content with space between elements, using `justify-content: space-between`. Typically used in navigation bars."
+  },
+  "justify-center": {
+    "description": "Centers flex items along the main axis (horizontally in a row layout) using `justify-content: center`."
+  },
+  "justify-start": {
+    "description": "Aligns flex items to the start of the main axis using `justify-content: flex-start`, default behavior in flex containers."
+  },
+  "justify-end": {
+    "description": "Aligns flex items to the end of the main axis using `justify-content: flex-end`."
+  },
+  "items-start": {
+    "description": "Aligns flex items to the start of the cross axis using `align-items: flex-start`."
+  },
+  "items-end": {
+    "description": "Aligns flex items to the end of the cross axis using `align-items: flex-end`."
+  },
+  "items-base": {
+    "description": "Aligns flex items along their baseline using `align-items: baseline`, useful for aligning text baselines."
+  },
+  "grid": {
+    "description": "Applies `display: grid`, making the element a grid container for arranging child elements in rows and columns."
+  },
+  "grid-cols": {
+    "description": "Custom utility for defining the number of grid columns. Typically paired with CSS variables or custom classes."
+  },
+  "grid-2-cols": {
+    "description": "Creates a 2-column grid layout using `grid-template-columns: repeat(2, 1fr)`."
+  },
+  "grid-3-cols": {
+    "description": "Creates a 3-column grid layout using `grid-template-columns: repeat(3, 1fr)`."
+  },
+  "grid-4-cols": {
+    "description": "Creates a 4-column grid layout using `grid-template-columns: repeat(4, 1fr)`."
+  },
+  "grid-5-cols": {
+    "description": "Creates a 5-column grid layout using `grid-template-columns: repeat(5, 1fr)`."
+  },
+  "grid-6-cols": {
+    "description": "Creates a 6-column grid layout using `grid-template-columns: repeat(6, 1fr)`."
+  },
+  "grid-12-cols": {
+    "description": "Creates a 12-column grid layout using `grid-template-columns: repeat(12, 1fr)`. Commonly used for responsive design."
+  },
+  "grid-rows": {
+    "description": "Custom utility for defining the number of grid rows. Typically paired with CSS variables or custom classes."
+  },
+  "grid-2-rows": {
+    "description": "Creates a 2-row grid layout using `grid-template-rows: repeat(2, 1fr)`."
+  },
+  "grid-3-rows": {
+    "description": "Creates a 3-row grid layout using `grid-template-rows: repeat(3, 1fr)`."
+  },
+  "grid-4-rows": {
+    "description": "Creates a 4-row grid layout using `grid-template-rows: repeat(4, 1fr)`."
+  },
+  "grid-5-rows": {
+    "description": "Creates a 5-row grid layout using `grid-template-rows: repeat(5, 1fr)`."
+  },
+  "grid-6-rows": {
+    "description": "Creates a 6-row grid layout using `grid-template-rows: repeat(6, 1fr)`."
+  },
+  "grid-12-rows": {
+    "description": "Creates a 12-row grid layout using `grid-template-rows: repeat(12, 1fr)`. Commonly used for detailed, responsive layouts."
+  },
+  "cspan": {
+    "description": "Custom utility for spanning grid columns, typically paired with CSS variables."
+  },
+  "rspan": {
+    "description": "Custom utility for spanning grid rows, typically paired with CSS variables."
+  },
+  "spann": {
+    "description": "Spans an element across 2 columns using `grid-column: span 2`."
+  },
+  "grid-start": {
+    "description": "Aligns grid items to the start of the grid area using `align-items: start`."
+  },
+  "grid-center": {
+    "description": "Centers grid items within the grid area using `align-items: center`."
+  },
+  "grid-end": {
+    "description": "Aligns grid items to the end of the grid area using `align-items: end`."
+  },
+  "self": {
+    "description": "Custom utility for aligning a single item along the cross axis using `align-self`."
+  },
+  "cursor-pointer": {
+    "description": "Sets `cursor: pointer` to indicate that an element is clickable."
+  },
+  "shadow-sm": {
+    "description": "Applies a small box-shadow effect using `box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05)`."
+  },
+  "shadow-smr": {
+    "description": "Applies a small right-side box-shadow effect. Typically a custom value."
+  },
+  "shadow-sml": {
+    "description": "Applies a small left-side box-shadow effect. Typically a custom value."
+  },
+  "shadow-md": {
+    "description": "Applies a medium box-shadow effect using `box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)`."
+  },
+  "shadow-lg": {
+    "description": "Applies a large box-shadow effect using `box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15)`."
+  },
+  "max-content": {
+    "description": "Sets `max-width: max-content`, making the element take up only as much space as its content."
+  },
+  "fit-content": {
+    "description": "Sets `width: fit-content`, adjusting the element's width to fit its content exactly."
+  },
+  "blend": {
+    "description": "Custom utility for setting the `mix-blend-mode` property, allowing control over how an element blends with the background."
+  },
+  "blend-hl": {
+    "description": "Sets `mix-blend-mode: hard-light`, which combines screen and multiply blend modes depending on the background content."
+  },
+  "blend-mtp": {
+    "description": "Sets `mix-blend-mode: multiply`, which multiplies the background color with the element color, resulting in a darker effect."
+  },
+  "blend-scr": {
+    "description": "Sets `mix-blend-mode: screen`, which inverts the colors, multiplies them, and inverts them again, resulting in a lighter effect."
+  },
+  "blend-sat": {
+    "description": "Sets `mix-blend-mode: saturation`, which adjusts the saturation of the background based on the element's color."
+  },
+  "blend-hue": {
+    "description": "Sets `mix-blend-mode: hue`, applying the hue of the element's color to the background."
+  },
+  "blend-dif": {
+    "description": "Sets `mix-blend-mode: difference`, subtracting the background color from the element color or vice versa, resulting in high contrast."
+  },
+  "shadowC": {
+    "description": "Custom utility for applying a box shadow with customizable properties like size and color using CSS variables."
+  },
+  "rounded": {
+    "description": "Applies a border-radius of 50% to make an element circular."
+  },
+  "relative": {
+    "description": "Sets `position: relative`, positioning the element relative to its normal position."
+  },
+  "overflow": {
+    "description": "Custom utility for setting the `overflow` property. Typically paired with CSS variables."
+  },
+  "overflow-x": {
+    "description": "Custom utility for setting the `overflow-x` property. Typically used for controlling horizontal scrolling."
+  },
+  "overflow-y": {
+    "description": "Custom utility for setting the `overflow-y` property. Typically used for controlling vertical scrolling."
+  },
+  "hidden": {
+    "description": "Applies `display: none`, hiding the element entirely from the page."
+  },
+  "absolute": {
+    "description": "Sets `position: absolute`, positioning the element relative to its nearest positioned ancestor."
+  },
+  "block": {
+    "description": "Applies `display: block`, making the element a block-level element."
+  },
+  "inline": {
+    "description": "Applies `display: inline`, making the element an inline-level element."
+  },
+  "underline": {
+    "description": "Applies `text-decoration: underline`, underlining the text content of an element."
+  },
+  "overline": {
+    "description": "Applies `text-decoration: overline`, drawing a line above the text content of an element."
+  },
+  "line-through": {
+    "description": "Applies `text-decoration: line-through`, drawing a line through the text content of an element."
+  },
+  "inline-block": {
+    "description": "Applies `display: inline-block`, allowing the element to be treated as an inline element while retaining block-level styling."
+  },
+  "no-underline": {
+    "description": "Removes underlining from text using `text-decoration: none`."
+  }
+}

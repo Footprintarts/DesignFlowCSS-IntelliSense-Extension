@@ -1,0 +1,680 @@
+{
+  "flex": {
+    "description": "Display flex"
+  },
+  "flex-1": {
+    "description": "Flex 1"
+  },
+  "flexw": {
+    "description": "Flex wrap (custom)"
+  },
+  "flex-col": {
+    "description": "Flex direction column"
+  },
+  "items-center": {
+    "description": "Align items center"
+  },
+  "justify-between": {
+    "description": "Justify content between"
+  },
+  "justify-center": {
+    "description": "Justify content center"
+  },
+  "justify-start": {
+    "description": "Justify content flex-start"
+  },
+  "justify-end": {
+    "description": "Justify content flex-end"
+  },
+  "items-start": {
+    "description": "Align items flex-start"
+  },
+  "items-end": {
+    "description": "Align items flex-end"
+  },
+  "items-base": {
+    "description": "Align items baseline"
+  },
+  "grid": {
+    "description": "Display grid"
+  },
+  "grid-cols": {
+    "description": "Grid template columns (custom)"
+  },
+  "grid-2-cols": {
+    "description": "Grid template columns 2"
+  },
+  "grid-3-cols": {
+    "description": "Grid template columns 3"
+  },
+  "grid-4-cols": {
+    "description": "Grid template columns 4"
+  },
+  "grid-5-cols": {
+    "description": "Grid template columns 5"
+  },
+  "grid-6-cols": {
+    "description": "Grid template columns 6"
+  },
+  "grid-12-cols": {
+    "description": "Grid template columns 12"
+  },
+  "grid-rows": {
+    "description": "Grid template rows (custom)"
+  },
+  "grid-2-rows": {
+    "description": "Grid template rows 2"
+  },
+  "grid-3-rows": {
+    "description": "Grid template rows 3"
+  },
+  "grid-4-rows": {
+    "description": "Grid template rows 4"
+  },
+  "grid-5-rows": {
+    "description": "Grid template rows 5"
+  },
+  "grid-6-rows": {
+    "description": "Grid template rows 6"
+  },
+  "grid-12-rows": {
+    "description": "Grid template rows 12"
+  },
+  "cspan": {
+    "description": "Grid column span (custom)"
+  },
+  "rspan": {
+    "description": "Grid row span (custom)"
+  },
+  "spann": {
+    "description": "Grid column span 2"
+  },
+  "grid-start": {
+    "description": "Align grid items start"
+  },
+  "grid-center": {
+    "description": "Align grid items center"
+  },
+  "grid-end": {
+    "description": "Align grid items end"
+  },
+  "self": {
+    "description": "Align self (custom)"
+  },
+  "cursor-pointer": {
+    "description": "Cursor pointer"
+  },
+  "shadow-sm": {
+    "description": "Small shadow"
+  },
+  "shadow-smr": {
+    "description": "Small shadow right"
+  },
+  "shadow-sml": {
+    "description": "Small shadow left"
+  },
+  "shadow-md": {
+    "description": "Medium shadow"
+  },
+  "shadow-lg": {
+    "description": "Large shadow"
+  },
+  "max-content": {
+    "description": "Max width content"
+  },
+  "fit-content": {
+    "description": "Fit content width"
+  },
+  "blend": {
+    "description": "Mix blend mode (custom)"
+  },
+  "blend-hl": {
+    "description": "Mix blend mode hard-light"
+  },
+  "blend-mtp": {
+    "description": "Mix blend mode multiply"
+  },
+  "blend-scr": {
+    "description": "Mix blend mode screen"
+  },
+  "blend-sat": {
+    "description": "Mix blend mode saturation"
+  },
+  "blend-hue": {
+    "description": "Mix blend mode hue"
+  },
+  "blend-dif": {
+    "description": "Mix blend mode difference"
+  },
+  "shadowC": {
+    "description": "Custom shadow"
+  },
+  "rounded": {
+    "description": "Border radius 50%"
+  },
+  "relative": {
+    "description": "Position relative"
+  },
+  "overflow": {
+    "description": "Overflow (custom)"
+  },
+  "overflow-x": {
+    "description": "Overflow X (custom)"
+  },
+  "overflow-y": {
+    "description": "Overflow Y (custom)"
+  },
+  "hidden": {
+    "description": "Display none"
+  },
+  "absolute": {
+    "description": "Position absolute"
+  },
+  "sticky": {
+    "description": "Position sticky"
+  },
+  "t": {
+    "description": "Top (custom)"
+  },
+  "r": {
+    "description": "Right (custom)"
+  },
+  "b": {
+    "description": "Bottom (custom)"
+  },
+  "l": {
+    "description": "Left (custom)"
+  },
+  "fixed": {
+    "description": "Position fixed"
+  },
+  "inline": {
+    "description": "Display inline"
+  },
+  "block": {
+    "description": "Display block"
+  },
+  "inline-block": {
+    "description": "Display inline-block"
+  },
+  "none": {
+    "description": "Display none"
+  },
+  "z0": {
+    "description": "Z-index 0"
+  },
+  "z1": {
+    "description": "Z-index 1"
+  },
+  "z2": {
+    "description": "Z-index 2"
+  },
+  "z3": {
+    "description": "Z-index 3"
+  },
+  "z4": {
+    "description": "Z-index 4"
+  },
+  "uppercase": {
+    "description": "Text transform uppercase"
+  },
+  "lowercase": {
+    "description": "Text transform lowercase"
+  },
+  "capitalize": {
+    "description": "Text transform capitalize"
+  },
+  "fade-in-first": {
+    "description": "Fade In Animation1"
+  },
+  "fade-in-second": {
+    "description": "Fade In Animation2"
+  },
+  "home": {
+    "description": "Default designFlowCss QuickTest class"
+  },
+  "bgcv": {
+    "description": "Text decoration (custom)",
+    "styles": {
+      "background": "var(--background-cover)",
+      "background-size": "cover"
+    }
+  },
+  "z5": {
+    "description": "Z-index 5"
+  },
+  "z6": {
+    "description": "Z-index 6"
+  },
+  "ztop": {
+    "description": "Z-index 100"
+  },
+  "align-text": {
+    "description": "Text align (custom)"
+  },
+  "text-sm": {
+    "description": "Font size small"
+  },
+  "text-base": {
+    "description": "Font size base"
+  },
+  "text-md": {
+    "description": "Font size medium"
+  },
+  "text-lg": {
+    "description": "Font size large"
+  },
+  "text-white": {
+    "description": "Text color white"
+  },
+  "text-black": {
+    "description": "Text color black"
+  },
+  "text-transparent": {
+    "description": "Text color transparent"
+  },
+  "textsz": {
+    "description": "Font size (custom)"
+  },
+  "textc": {
+    "description": "Text color (custom)"
+  },
+  "radiustl": {
+    "description": "Border radius top left (custom)"
+  },
+  "radiustr": {
+    "description": "Border radius top right (custom)"
+  },
+  "radiusbr": {
+    "description": "Border radius bottom right (custom)"
+  },
+  "radiusbl": {
+    "description": "Border radius bottom left (custom)"
+  },
+
+  "truncate": {
+    "description": "Truncate text with ellipsis",
+    "styles": {
+      "white-space": "nowrap",
+      "overflow": "hidden",
+      "text-overflow": "ellipsis"
+    }
+  },
+  "fw": {
+    "description": "Font weight (custom)",
+    "styles": {
+      "font-weight": "var(--font-weight)"
+    }
+  },
+
+  "bgpos": {
+    "description": "Background position",
+    "styles": {
+      "background-position": "var(--background-position)"
+    }
+  },
+  "bgposx": {
+    "description": "Background position X",
+    "styles": {
+      "background-position-x": "var(--background-position-x)"
+    }
+  },
+  "bgposy": {
+    "description": "Background position Y",
+    "styles": {
+      "background-position-y": "var(--background-position-y)"
+    }
+  },
+  "decoration": {
+    "description": "Text decoration",
+    "styles": {
+      "text-decoration": "var(--text-decoration)"
+    }
+  },
+
+  "shadow": {
+    "description": "Custom Control shadow",
+    "styles": {
+      "box-shadow": "var(--shadow-position-x) var(--shadow-position-y) var(--shadow-blur) var(--custom-shadow-color)"
+    }
+  },
+
+  "fwb": {
+    "description": "Font weight bold",
+    "styles": {
+      "font-weight": "bold"
+    }
+  },
+  "fsi": {
+    "description": "Font style italic",
+    "styles": {
+      "font-style": "italic"
+    }
+  },
+  "fsz": {
+    "description": "Font size (custom)",
+    "styles": {
+      "font-size": "var(--font-size)"
+    }
+  },
+  "ff": {
+    "description": "Font family (custom)",
+    "styles": {
+      "font-family": "var(--font-family)"
+    }
+  },
+  "lh": {
+    "description": "Line height 1.5",
+    "styles": {
+      "line-height": "1.5"
+    }
+  },
+  "lhsz": {
+    "description": "Line height (custom)",
+    "styles": {
+      "line-height": "var(--line-height-size)"
+    }
+  },
+  "grad-bg": {
+    "description": "Gradient background (custom)",
+    "styles": {
+      "background": "linear-gradient(var(--grad-degrees), var(--grad-color1), var(--grad-color2))"
+    }
+  },
+  "bg-clip-text": {
+    "description": "Background clip text",
+    "styles": {
+      "background-clip": "text",
+      "-webkit-background-clip": "text",
+      "color": "transparent"
+    }
+  },
+  "hover\\:bgc": {
+    "description": "Background color on hover",
+    "styles": {
+      ":hover": {
+        "background-color": "var(--background-hov)",
+        "transition": "background-color 0.3s ease-in-out"
+      }
+    }
+  },
+  "hover\\:text": {
+    "description": "Text color on hover",
+    "styles": {
+      ":hover": {
+        "color": "var(--text-color-hov)",
+        "transition": "color 0.3s"
+      }
+    }
+  },
+
+  "glass": {
+    "description": "Apply a glass effect with a slight blur and transparency.",
+    "styles": {
+      "background": "rgba(255, 255, 255, 0.2)",
+      "backdrop-filter": "blur(10px)",
+
+      "box-shadow": "0 4px 6px rgba(0, 0, 0, 0.1)"
+    }
+  },
+  "neumorphism": {
+    "description": "Apply a soft, embossed effect using Neumorphism."
+  },
+  "iphone14": {
+    "description": "Styles tailored for iPhone 14 screen size and resolution."
+  },
+  "mobile": {
+    "description": "Styles tailored for a Generic-mobile screen size and resolution."
+  },
+
+  "gap": {
+    "description": "Gap (custom)",
+    "styles": {
+      "gap": "var(--gap-size, 0)"
+    }
+  },
+  "radius": {
+    "description": "Border radius (custom)",
+    "styles": {
+      "border-radius": "var(--radius-size, 0)"
+    }
+  },
+
+  "m": {
+    "description": "Margin (custom)",
+    "styles": {
+      "margin": "var(--margin-size, 0)"
+    }
+  },
+  "m-auto": {
+    "description": "Margin auto",
+    "styles": {
+      "margin": "auto"
+    }
+  },
+  "ml": {
+    "description": "Margin left (custom)",
+    "styles": {
+      "margin-left": "var(--margin-left-size, 0)"
+    }
+  },
+  "mr": {
+    "description": "Margin right (custom)",
+    "styles": {
+      "margin-right": "var(--margin-right-size, 0)"
+    }
+  },
+  "mt": {
+    "description": "Margin top (custom)",
+    "styles": {
+      "margin-top": "var(--margin-top-size, 0)"
+    }
+  },
+  "mb": {
+    "description": "Margin bottom (custom)",
+    "styles": {
+      "margin-bottom": "var(--margin-bottom-size, 0)"
+    }
+  },
+  "mx": {
+    "description": "Margin left and right (custom)",
+    "styles": {
+      "margin-left": "var(--margin-left-size, 0)",
+      "margin-right": "var(--margin-right-size, 0)"
+    }
+  },
+  "my": {
+    "description": "Margin top and bottom (custom)",
+    "styles": {
+      "margin-top": "var(--margin-top-size, 0)",
+      "margin-bottom": "var(--margin-bottom-size, 0)"
+    }
+  },
+  "p": {
+    "description": "Padding (custom)",
+    "styles": {
+      "padding": "var(--padding-size, 0)"
+    }
+  },
+  "pl": {
+    "description": "Padding left (custom)",
+    "styles": {
+      "padding-left": "var(--padding-left-size, 0)"
+    }
+  },
+  "pr": {
+    "description": "Padding right (custom)",
+    "styles": {
+      "padding-right": "var(--padding-right-size, 0)"
+    }
+  },
+  "pt": {
+    "description": "Padding top (custom)",
+    "styles": {
+      "padding-top": "var(--padding-top-size, 0)"
+    }
+  },
+  "pb": {
+    "description": "Padding bottom (custom)",
+    "styles": {
+      "padding-bottom": "var(--padding-bottom-size, 0)"
+    }
+  },
+  "px": {
+    "description": "Padding left and right (custom)",
+    "styles": {
+      "padding-left": "var(--padding-left-size, 0)",
+      "padding-right": "var(--padding-right-size, 0)"
+    }
+  },
+  "py": {
+    "description": "Padding top and bottom (custom)",
+    "styles": {
+      "padding-top": "var(--padding-top-size, 0)",
+      "padding-bottom": "var(--padding-bottom-size, 0)"
+    }
+  },
+  "w": {
+    "description": "Width (custom)",
+    "styles": {
+      "width": "var(--width-size, 0)"
+    }
+  },
+  "w-full": {
+    "description": "Width 100%",
+    "styles": {
+      "width": "100%"
+    }
+  },
+  "w-1/2": {
+    "description": "Width 50%",
+    "styles": {
+      "width": "50%"
+    }
+  },
+  "w-1/4": {
+    "description": "Width 25%",
+    "styles": {
+      "width": "25%"
+    }
+  },
+  "h": {
+    "description": "Height (custom)",
+    "styles": {
+      "height": "var(--height-size, 0)"
+    }
+  },
+  "h-1/2": {
+    "description": "Height 50%",
+    "styles": {
+      "height": "50%"
+    }
+  },
+  "h-1/4": {
+    "description": "Height 25%",
+    "styles": {
+      "height": "25%"
+    }
+  },
+  "h-full": {
+    "description": "Height 100%",
+    "styles": {
+      "height": "100%"
+    }
+  },
+  "h-screen": {
+    "description": "Height 100vh",
+    "styles": {
+      "height": "100vh"
+    }
+  },
+  "bgc": {
+    "description": "Background color (custom)",
+    "styles": {
+      "background": "var(--background-color, 0)"
+    }
+  },
+  "bgsz": {
+    "description": "Background size (custom)",
+    "styles": {
+      "background-size": "var(--background-size)"
+    }
+  },
+  "border": {
+    "description": "Border (custom)",
+    "styles": {
+      "border": "var(--border-value)"
+    }
+  },
+  "outline": {
+    "description": "Outline (custom)",
+    "styles": {
+      "outline": "var(--outline-value)"
+    }
+  },
+  "rect": {
+    "description": "Rectangle shape",
+    "styles": {
+      "width": "var(--rect-width)",
+      "height": "var(--rect-height)",
+      "background": "var(--background-color)"
+    }
+  },
+  "sq": {
+    "description": "Square shape",
+    "styles": {
+      "width": "var(--sq-width)",
+      "height": "var(--sq-width)",
+      "background": "var(--background-color)"
+    }
+  },
+  "circle": {
+    "description": "Circle shape",
+    "styles": {
+      "width": "var(--circle-width)",
+      "height": "var(--circle-width)",
+      "background": "var(--background-color)",
+      "border-radius": "50%"
+    }
+  },
+  "lineb": {
+    "description": "Line bottom border",
+    "styles": {
+      "border-bottom": "var(--line-bottom-size) solid var(--line-bottom-color)"
+    }
+  },
+  "linel": {
+    "description": "Line left border",
+    "styles": {
+      "border-left": "var(--line-left-size) solid var(--line-left-color)"
+    }
+  },
+  "liner": {
+    "description": "Line right border",
+    "styles": {
+      "border-right": "var(--line-right-size) solid var(--line-right-color)"
+    }
+  },
+  "linet": {
+    "description": "Line top border",
+    "styles": {
+      "border-top": "var(--line-top-size) solid var(--line-top-color)"
+    }
+  },
+  "md\\:gap": {
+    "description": "Gap (custom) for medium screens",
+    "styles": {
+      "@media (min-width: 768px)": {
+        "gap": "var(--md-gap-size, 0)"
+      }
+    }
+  },
+  "lg\\:gap": {
+    "description": "Gap (custom) for large screens",
+    "styles": {
+      "@media (min-width: 1024px)": {
+        "gap": "var(--lg-gap-size, 0)"
+      }
+    }
+  }
+}
