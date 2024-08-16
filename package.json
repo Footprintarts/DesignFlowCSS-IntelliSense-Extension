@@ -2,7 +2,7 @@
   "name": "designflowcss-intellisense",
   "displayName": "DesignFlowCss IntelliSense",
   "description": "Empower your CSS design with intelligent autocomplete and instant insights.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "Charles Mallya",
   "repository": "https://github.com/Footprintarts/DesignFlowCSS-IntelliSense-Extension.git",
   "icon": "icon.png",
